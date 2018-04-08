@@ -333,8 +333,10 @@
 </div>                    <span itemscope  itemtype=http://schema.org/VideoObject><h1 itemprop=name><a href="https://na-nozhah.friday.ru/">На ножах</a> &raquo;&nbsp;Анапа. Ё Бар</h1><div id="show"><div class="tabs-menu-wrapper"><ul class="tabs-menu"><li><a href="https://na-nozhah.friday.ru/">О программе</a></li><li class="active"><a href="https://na-nozhah.friday.ru/videos/">Видео</a></li></ul></div><div class="header-pic-row"><div class="header-pic-wrapper"><span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"><link itemprop="contentUrl" href="https://na-nozhah.friday.ruhttps://pic.rutube.ru/video/1e/34/1e3497ba70babda57081ef6e34b59695.jpg" /></span><meta itemprop="uploadDate" content="2018-03-01T12:56:35+0300" /><meta itemprop="isFamilyFriendly" content="true" /><link itemprop="url" href="anapa.html" /><meta itemprop="description" content="На ножах Анапа. Ё Бар смотреть онлайн в хорошем качестве HD 720p"><meta itemprop="duration" content="3359" /><iframe id="rutube_player_frame" class="rplayer" width="840" height="630" scrolling="no" src="https://rutube.ru/embed/906206bbd2c89e6321d09e7f3fbe000f?p=kbAo-2JW9clVBYzwLEoSGQ" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe></div><div class="list-item" data-index="2"></div></div>
 
 
-
-
+<H1>&#160;</H>
+<form onsubmit="return false" oninput="level.value = flevel.valueAsNumber">
+<input name="flevel" id="flying" type="range" min="0" max="100" value="0" step="1">
+<output for="flying" name="level">0</output>
 
 
 <div class='row'><div class="col-md-12"><section><p>Не всем заведениям в жарком городе-курорте <strong>Анапе</strong> удается держаться на плаву благодаря щедрым туристам. Так, заведение &laquo;Ё Бар&raquo; оказалось явно не в числе излюбленных мест среди гостей города. Долги владельцев заведения растут с каждым днем, клиентов становится все меньше и меньше, а мечты об элитном и уютном ресторане рушатся о суровую действительность. Но именитого шефа <strong>Константина Ивлева</strong> не испугать очевидными трудностями и проблемами. Что придумал гуру ресторанного бизнеса для этого заведения, узнаем из программы <a href="https://na-nozhah.friday.ru/">На ножах</a>.</p></section></span></div></div><div class="clearfix"></div><div class="post-info-wrapper"><div class="post-info">
@@ -343,17 +345,10 @@
 Данные материалы могли не использоваться в эфире телеканала ПЯТНИЦА! или быть использованы в варианте (версии) отличном от размещенного здесь.</div>
 
 
-<input type="range" step="1" min="1" max="100" list="rangeList" onchange="document.getElementById('rangeValue').innerHTML = this.value;">
-<datalist id="rangeList">
-<option value = label>
 
-</datalist>
-<span id="rangeValue">1</span>
-<H1>ff</h1>
 
-<form onsubmit="return false" oninput="level.value = flevel.valueAsNumber">
-<input name="flevel" id="flying" type="range" min="0" max="100" value="0" step="1">
-<output for="flying" name="level">0</output>
+
+
 
 
 
